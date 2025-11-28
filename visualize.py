@@ -7,30 +7,41 @@ def load_logs():
         return json.load(f)
 
 
+def format_timestamps(logs):
+    """Convert HH:MM:SS → HH:MM to make graph readable"""
+    return [log["timestamp"][:5] for log in logs]
+
+
 def plot_bandwidth(logs):
-    times = [log["timestamp"] for log in logs]
+    times = format_timestamps(logs)
     bandwidth = [log["bandwidth"] for log in logs]
 
     plt.figure(figsize=(10, 4))
     plt.plot(times, bandwidth)
     plt.title("Bandwidth Usage Over Time")
-    plt.xlabel("Time")
+    plt.xlabel("Time (HH:MM)")
     plt.ylabel("KB/s")
-    plt.xticks(rotation=45)
+
+    # show only every 4th label
+    plt.xticks(times[::4], rotation=45)
+
     plt.tight_layout()
     plt.show()
 
 
 def plot_deviation(logs):
-    times = [log["timestamp"] for log in logs]
+    times = format_timestamps(logs)
     dev = [log["deviation"] for log in logs]
 
     plt.figure(figsize=(10, 4))
     plt.plot(times, dev)
     plt.title("Deviation Score Over Time")
     plt.ylabel("Deviation %")
-    plt.xlabel("Time")
-    plt.xticks(rotation=45)
+    plt.xlabel("Time (HH:MM)")
+
+    # show only every 4th label
+    plt.xticks(times[::4], rotation=45)
+
     plt.tight_layout()
     plt.show()
 
@@ -45,6 +56,7 @@ def plot_app_frequency(logs):
     plt.figure(figsize=(8, 4))
     plt.bar(counts.keys(), counts.values())
     plt.title("App Usage Frequency")
+    plt.ylabel("Count")
     plt.tight_layout()
     plt.show()
 

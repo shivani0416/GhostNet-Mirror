@@ -772,5 +772,814 @@
         "connections": 8,
         "deviation": 100,
         "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:12",
+        "apps": [
+            "Discord",
+            "VSCode",
+            "Instagram",
+            "YouTube"
+        ],
+        "bandwidth": 256,
+        "connections": 12,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:15",
+        "apps": [
+            "VSCode"
+        ],
+        "bandwidth": 90,
+        "connections": 7,
+        "deviation": 92,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:18",
+        "apps": [
+            "Instagram",
+            "YouTube"
+        ],
+        "bandwidth": 326,
+        "connections": 15,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:21",
+        "apps": [
+            "YouTube",
+            "Chrome",
+            "Instagram",
+            "Spotify"
+        ],
+        "bandwidth": 158,
+        "connections": 15,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:24",
+        "apps": [
+            "Discord",
+            "Instagram",
+            "Chrome"
+        ],
+        "bandwidth": 251,
+        "connections": 7,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:27",
+        "apps": [
+            "Discord",
+            "VSCode",
+            "Chrome"
+        ],
+        "bandwidth": 346,
+        "connections": 5,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:30",
+        "apps": [
+            "Instagram",
+            "Chrome",
+            "YouTube"
+        ],
+        "bandwidth": 278,
+        "connections": 13,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:33",
+        "apps": [
+            "Discord",
+            "Chrome"
+        ],
+        "bandwidth": 340,
+        "connections": 7,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:36",
+        "apps": [
+            "Discord",
+            "VSCode",
+            "YouTube",
+            "Chrome"
+        ],
+        "bandwidth": 204,
+        "connections": 4,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:39",
+        "apps": [
+            "Instagram",
+            "Chrome",
+            "YouTube",
+            "Discord"
+        ],
+        "bandwidth": 278,
+        "connections": 9,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:42",
+        "apps": [
+            "Instagram",
+            "YouTube",
+            "VSCode"
+        ],
+        "bandwidth": 290,
+        "connections": 9,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:45",
+        "apps": [
+            "Chrome",
+            "VSCode"
+        ],
+        "bandwidth": 333,
+        "connections": 11,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:48",
+        "apps": [
+            "Instagram"
+        ],
+        "bandwidth": 20,
+        "connections": 10,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:51",
+        "apps": [
+            "VSCode",
+            "Chrome"
+        ],
+        "bandwidth": 40,
+        "connections": 12,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:54",
+        "apps": [
+            "Chrome",
+            "Spotify"
+        ],
+        "bandwidth": 230,
+        "connections": 11,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:13:57",
+        "apps": [
+            "Spotify",
+            "YouTube",
+            "Instagram"
+        ],
+        "bandwidth": 231,
+        "connections": 9,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:00",
+        "apps": [
+            "YouTube",
+            "VSCode"
+        ],
+        "bandwidth": 83,
+        "connections": 8,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:03",
+        "apps": [
+            "VSCode",
+            "YouTube"
+        ],
+        "bandwidth": 276,
+        "connections": 11,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:06",
+        "apps": [
+            "Discord"
+        ],
+        "bandwidth": 183,
+        "connections": 4,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:10",
+        "apps": [
+            "Instagram",
+            "VSCode",
+            "YouTube"
+        ],
+        "bandwidth": 156,
+        "connections": 4,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:13",
+        "apps": [
+            "Instagram",
+            "Discord",
+            "Chrome",
+            "Spotify"
+        ],
+        "bandwidth": 248,
+        "connections": 10,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:16",
+        "apps": [
+            "YouTube",
+            "Discord",
+            "Chrome",
+            "VSCode"
+        ],
+        "bandwidth": 329,
+        "connections": 7,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:19",
+        "apps": [
+            "YouTube",
+            "Spotify"
+        ],
+        "bandwidth": 72,
+        "connections": 9,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:22",
+        "apps": [
+            "VSCode",
+            "Discord"
+        ],
+        "bandwidth": 76,
+        "connections": 2,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:25",
+        "apps": [
+            "Instagram",
+            "Chrome",
+            "YouTube"
+        ],
+        "bandwidth": 142,
+        "connections": 6,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:29",
+        "apps": [
+            "Instagram",
+            "Spotify"
+        ],
+        "bandwidth": 313,
+        "connections": 11,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:32",
+        "apps": [
+            "Discord",
+            "Chrome",
+            "YouTube"
+        ],
+        "bandwidth": 153,
+        "connections": 14,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:35",
+        "apps": [
+            "YouTube"
+        ],
+        "bandwidth": 232,
+        "connections": 8,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:38",
+        "apps": [
+            "VSCode",
+            "Spotify"
+        ],
+        "bandwidth": 343,
+        "connections": 14,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:41",
+        "apps": [
+            "Chrome",
+            "Instagram"
+        ],
+        "bandwidth": 293,
+        "connections": 7,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:44",
+        "apps": [
+            "Chrome",
+            "Discord"
+        ],
+        "bandwidth": 249,
+        "connections": 14,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:47",
+        "apps": [
+            "Spotify",
+            "YouTube"
+        ],
+        "bandwidth": 305,
+        "connections": 9,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:50",
+        "apps": [
+            "Chrome",
+            "Instagram"
+        ],
+        "bandwidth": 332,
+        "connections": 10,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:53",
+        "apps": [
+            "VSCode",
+            "YouTube",
+            "Discord",
+            "Instagram"
+        ],
+        "bandwidth": 209,
+        "connections": 15,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:56",
+        "apps": [
+            "Discord",
+            "Chrome",
+            "Spotify"
+        ],
+        "bandwidth": 260,
+        "connections": 13,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:14:59",
+        "apps": [
+            "Discord",
+            "Instagram",
+            "VSCode",
+            "YouTube"
+        ],
+        "bandwidth": 340,
+        "connections": 10,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:02",
+        "apps": [
+            "Discord",
+            "YouTube"
+        ],
+        "bandwidth": 137,
+        "connections": 4,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:05",
+        "apps": [
+            "Instagram"
+        ],
+        "bandwidth": 349,
+        "connections": 2,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:08",
+        "apps": [
+            "Chrome",
+            "Spotify",
+            "Discord",
+            "Instagram"
+        ],
+        "bandwidth": 43,
+        "connections": 12,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:11",
+        "apps": [
+            "Discord"
+        ],
+        "bandwidth": 252,
+        "connections": 10,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:14",
+        "apps": [
+            "Instagram"
+        ],
+        "bandwidth": 32,
+        "connections": 3,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:18",
+        "apps": [
+            "Spotify",
+            "Instagram",
+            "YouTube"
+        ],
+        "bandwidth": 192,
+        "connections": 8,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:21",
+        "apps": [
+            "VSCode",
+            "Instagram"
+        ],
+        "bandwidth": 289,
+        "connections": 4,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:24",
+        "apps": [
+            "YouTube"
+        ],
+        "bandwidth": 291,
+        "connections": 14,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:27",
+        "apps": [
+            "YouTube",
+            "VSCode",
+            "Spotify"
+        ],
+        "bandwidth": 72,
+        "connections": 5,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:30",
+        "apps": [
+            "Spotify",
+            "VSCode",
+            "Instagram",
+            "Discord"
+        ],
+        "bandwidth": 126,
+        "connections": 7,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:33",
+        "apps": [
+            "Spotify"
+        ],
+        "bandwidth": 273,
+        "connections": 8,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:36",
+        "apps": [
+            "Chrome",
+            "YouTube",
+            "Discord"
+        ],
+        "bandwidth": 81,
+        "connections": 3,
+        "deviation": 81,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:39",
+        "apps": [
+            "VSCode"
+        ],
+        "bandwidth": 34,
+        "connections": 13,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:42",
+        "apps": [
+            "Chrome",
+            "VSCode"
+        ],
+        "bandwidth": 332,
+        "connections": 4,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:45",
+        "apps": [
+            "Chrome",
+            "Spotify"
+        ],
+        "bandwidth": 333,
+        "connections": 13,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:48",
+        "apps": [
+            "VSCode",
+            "Discord",
+            "Chrome",
+            "YouTube"
+        ],
+        "bandwidth": 114,
+        "connections": 14,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:51",
+        "apps": [
+            "Spotify",
+            "Discord",
+            "YouTube"
+        ],
+        "bandwidth": 181,
+        "connections": 11,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:54",
+        "apps": [
+            "YouTube",
+            "VSCode",
+            "Discord",
+            "Spotify"
+        ],
+        "bandwidth": 111,
+        "connections": 15,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:15:58",
+        "apps": [
+            "Discord",
+            "YouTube",
+            "Instagram"
+        ],
+        "bandwidth": 233,
+        "connections": 11,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:01",
+        "apps": [
+            "YouTube",
+            "Chrome",
+            "Instagram",
+            "Spotify"
+        ],
+        "bandwidth": 26,
+        "connections": 6,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:04",
+        "apps": [
+            "Spotify"
+        ],
+        "bandwidth": 183,
+        "connections": 8,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:07",
+        "apps": [
+            "Discord",
+            "Instagram"
+        ],
+        "bandwidth": 188,
+        "connections": 8,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:10",
+        "apps": [
+            "Discord"
+        ],
+        "bandwidth": 121,
+        "connections": 7,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:13",
+        "apps": [
+            "YouTube",
+            "Chrome"
+        ],
+        "bandwidth": 300,
+        "connections": 13,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:16",
+        "apps": [
+            "VSCode",
+            "Discord"
+        ],
+        "bandwidth": 242,
+        "connections": 3,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:19",
+        "apps": [
+            "Discord",
+            "Chrome",
+            "Instagram"
+        ],
+        "bandwidth": 278,
+        "connections": 14,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:22",
+        "apps": [
+            "Chrome",
+            "YouTube",
+            "Instagram",
+            "VSCode"
+        ],
+        "bandwidth": 260,
+        "connections": 14,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:26",
+        "apps": [
+            "Discord",
+            "Instagram",
+            "YouTube"
+        ],
+        "bandwidth": 166,
+        "connections": 10,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:29",
+        "apps": [
+            "Instagram"
+        ],
+        "bandwidth": 291,
+        "connections": 3,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:33",
+        "apps": [
+            "Spotify",
+            "Instagram",
+            "Chrome",
+            "Discord"
+        ],
+        "bandwidth": 180,
+        "connections": 9,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:36",
+        "apps": [
+            "Instagram",
+            "VSCode",
+            "Spotify",
+            "YouTube"
+        ],
+        "bandwidth": 323,
+        "connections": 10,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:39",
+        "apps": [
+            "VSCode",
+            "Discord",
+            "Instagram"
+        ],
+        "bandwidth": 63,
+        "connections": 6,
+        "deviation": 91,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:42",
+        "apps": [
+            "YouTube",
+            "Chrome",
+            "Discord"
+        ],
+        "bandwidth": 24,
+        "connections": 9,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
+    },
+    {
+        "timestamp": "17:16:45",
+        "apps": [
+            "Discord",
+            "YouTube",
+            "Chrome",
+            "VSCode"
+        ],
+        "bandwidth": 301,
+        "connections": 6,
+        "deviation": 100,
+        "alert": "\u26a0 HIGH anomaly \u2014 possible hijack!"
     }
 ]
