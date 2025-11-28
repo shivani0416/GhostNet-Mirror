@@ -1,0 +1,7 @@
+{
+    "baseline": {
+        "apps": ["Chrome", "Instagram"],
+        "bandwidth": 80,
+        "connections": 5
+    }
+}
