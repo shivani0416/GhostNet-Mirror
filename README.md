@@ -107,4 +107,3 @@ Alert notifications
 ##Author##
 
 Shivani Kawade • MScIT
-Project guided & developed with assistance from advanced AI.
